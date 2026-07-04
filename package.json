@@ -1,6 +1,6 @@
 {
-  "name": "vscode-sodagreen-night-mod",
-  "displayName": "Sodagreen Night Theme (Mod)",
+  "name": "vscode-sodagreen-night-theme-mod",
+  "displayName": "Sodagreen Night Theme (Modified)",
   "publisher": "Tat80",
   "icon": "assets/logo.jpg",
   "description": "This theme is a modified version of Sodagreen Night Theme with visibility fixes.",
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sodagreen Night (Mod)",
+        "label": "Sodagreen Night (Modified)",
         "uiTheme": "vs-dark",
         "path": "./themes/theme.json"
       }
