@@ -1,0 +1,27 @@
+{
+  "name": "vscode-sodagreen-night-mod",
+  "displayName": "Sodagreen Night Theme (Mod)",
+  "publisher": "Tat80",
+  "icon": "assets/logo.jpg",
+  "description": "This theme is a modified version of Sodagreen Night Theme with visibility fixes.",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sodagreen Night (Mod)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tat80/vscode-sodagreen-night-mod.git"
+  }
+}
