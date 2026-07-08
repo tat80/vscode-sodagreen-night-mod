@@ -4,7 +4,7 @@
   "publisher": "Tat80",
   "icon": "assets/logo.jpg",
   "description": "This theme is a modified version of Sodagreen Night Theme with visibility fixes.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.46.0"
   },
