@@ -1452,7 +1452,6 @@
 				"markup.underline"
 			],
 			"settings": {
-				"foreground": "#89DDFF",
 				"fontStyle": "underline"
 			}
 		},
