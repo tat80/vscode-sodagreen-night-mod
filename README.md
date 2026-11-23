@@ -1,5 +1,7 @@
 # Sodagreen Night Theme (Mod)
 
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Tat80.vscode-sodagreen-night-theme-mod)
+
 ## Preview プレビュー
 
 ![Preview](https://github.com/tat80/vscode-sodagreen-night-mod/blob/main/assets/sample.png?raw=true)
